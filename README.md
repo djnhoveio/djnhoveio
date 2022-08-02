@@ -1,4 +1,4 @@
-- 👋 eu sou o @djnhoveio
+- 👋 eu sou o **djnhoveio**
 - :+1: eu email de contato é matheus.tomal@escola.pr.gov.br
 - 👀 eu estou interesado a aprender programar  
 - 🌱 e eu estou aprendendo a programar recentemente
